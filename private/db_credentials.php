@@ -10,4 +10,9 @@ define("DB_USER", "webuser");
 define("DB_PASS", "secretpassword");
 define("DB_NAME", "chain_gang");
 
+//dfinições jefte
+define("DB_SERV", "localhost");
+define("USER", "root");
+define("PASS", "");
+define("DATABASE", "bicicleta");
 ?>
